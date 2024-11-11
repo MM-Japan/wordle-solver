@@ -8,7 +8,6 @@
     "48": "icon-48.png",
     "128": "icon-128.png"
   },
-  "permissions": ["activeTab", "scripting"],
   "host_permissions": ["https://www.nytimes.com/svc/wordle/v2/*"],
   "action": {
     "default_popup": "popup.html",
